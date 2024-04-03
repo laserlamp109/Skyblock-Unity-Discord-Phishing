@@ -1,0 +1,34 @@
+Date: Wed, 03 Apr 2024 13:03:01 -0700
+Subject: Your single-use code
+From: Microsoft account team <account-security-noreply@accountprotection.microsoft.com>
+To: phishing.oversold195@passinbox.com
+X-Pm-Original-From: "Microsoft account team - account-security-noreply at
+ accountprotection.microsoft.com"
+Reply-To: "Microsoft account team - account-security-noreply at
+ accountprotection.microsoft.com"
+X-Pm-Origin: external
+X-Pm-Transfer-Encryption: TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+X-Pm-Content-Encryption: on-delivery
+X-Pm-Spamscore: 0
+X-Pm-Spam-Action: inbox
+
+-----------------------1f6450821101ac3b0b1d2d70928d86f9
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;charset=utf-8
+
+Hi phishing.oversold195@passinbox.com,
+
+We received your request for a single-use code to use with your Microsoft =
+account.
+
+Your single-use code is: 833395
+
+If you didn't request this code, you can safely ignore this email. Someone=
+ else might have typed your email address by mistake.
+
+Thanks,
+The Microsoft account team
+Privacy Statement: https://go.microsoft.com/fwlink/?LinkId=3D521839
+Microsoft Corporation, One Microsoft Way, Redmond, WA 98052
+
+-----------------------1f6450821101ac3b0b1d2d70928d86f9--
