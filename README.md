@@ -1,7 +1,7 @@
 # Phishing Process
 
 EDIT:
-As of 04/03/2024 15:35, it appears BlueVPS has responded to my abuse complaint. They have disabled the server and the phishing scheme is not functional. I will check back tomorrow and throughout the week to ensure the phishing scheme stays down.
+As of 04/03/2024 15:35, BlueVPS shutdown their server in response to my abuse report. They have now migrated to the domain 'pengu.website' and using the IP address '194.110.247.33' to reset accounts.
 
 The phishing attack starts by sending the victim an invite to the discord server. The invite link I received was 'discord.com/invite/sbunity'.
 ![image](https://github.com/laserlamp109/Skyblock-Unity-Discord-Phishing/assets/165952486/003ebea9-b905-4a7e-a16c-e4e7e57f2fda)
